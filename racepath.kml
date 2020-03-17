@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>(無標題的圖層)</name>
+		<Placemark>
+			<styleUrl>#line-000000-1</styleUrl>
+			<name>線條 1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>121.81569810000002,24.6729531,0.0 121.81350950000001,24.6734601,0.0 121.8118143,24.671958700000005,0.0 121.81277990000001,24.6696773,0.0 121.80975440000002,24.6670254,0.0 121.8053341,24.6632424,0.0 121.8004847,24.6587963,0.0 121.79739480000002,24.6561441,0.0 121.79546360000002,24.6529849,0.0 121.79619309999998,24.6517172,0.0 121.79831740000002,24.6552666,0.0 121.7986822,24.655734600000002,0.0 121.80147170000001,24.6581722,0.0 121.80419679999999,24.6604148,0.0 121.8060207,24.6620139,0.0 121.80732969999998,24.6630864,0.0 121.8092394,24.6646269,0.0 121.81140660000001,24.6664989,0.0 121.81207180000001,24.6664014,0.0 121.8123507,24.6673959,0.0 121.8138313,24.6685268,0.0 121.8145823,24.6688388,0.0 121.8171787,24.6715102,0.0 121.81868080000001,24.6729531,0.0 121.8192816,24.672933600000004,0.0 121.81936740000002,24.6734991,0.0 121.82112690000001,24.675215,0.0 121.8240666,24.6779837,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-000000-1</styleUrl>
+			<name>線條 2</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>121.8240666,24.6779837,0.0 121.82439920000002,24.6789001,0.0 121.8244153,24.6797385,0.0 121.8221998,24.6848078,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>宜蘭傳藝中心</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>121.8221998,24.6848078,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-000000-1'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>
